@@ -1,0 +1,1 @@
+const projects=[{name:'Ward No.6',slug:'ward-no-6',symbol:'✚'},{name:"Alchemists’ Walpurgis Night",slug:'alchemists-walpurgis-night',symbol:'✧'},{name:'Two Paths, One Moon',slug:'one-path-two-moons',symbol:'☾'},{name:'Last Call: Spirits on the Rocks',slug:'last-call-spirits-on-the-rocks',symbol:'♧'},{name:'One Last Dance',slug:'one-last-dance',symbol:'❋'}];
